@@ -1,1 +1,1 @@
-# Selenium-Web-Testing-on-Hospital-Management-System
+# Selenium Web Testing on Hospital Management System
